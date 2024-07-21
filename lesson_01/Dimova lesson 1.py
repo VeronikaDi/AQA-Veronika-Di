@@ -100,3 +100,11 @@ second_book = first_book + 2
 third_book = (first_book + second_book) / 2
 books_together = first_book + second_book + third_book
 print(books_together)
+
+# for homework to lesson 2, some changes to compare them
+
+first_book = 8
+second_book = first_book + 2
+third_book = (first_book + second_book) / 2
+books_together = first_book + second_book + third_book
+print(books_together)
